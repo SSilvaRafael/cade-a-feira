@@ -1,0 +1,44 @@
+{
+
+	"dadosAcesso" : {
+		"email" : "matheus.feirante",
+		"senha" : "teste123",
+		"perfil" : "feirante"
+	},
+	"dadosPessoais" : {
+		"nome" : "matheus",
+		"sobrenome" : "feirante",
+		"rg" : "21.134.484-8",
+		"fotoUsuario" : "",
+		"dataNascimento" : "new Date(15, 11, 1979)"
+	},
+	"enderecoCliente" : {
+		"rua" : "rua geffen",
+		"bairro" : "chupeta de baleia",
+		"numero" : "1738",
+		"cep" : "09955220",
+		"cidade" : "santa sampa",
+		"estado" : "sp",
+		"complemento" : "c"
+	},
+	"barraca" :{
+		"nome" : "",
+		"descricao" : "",
+		"fotoBarraca" : "",
+		"listaProdutos" : [{
+			"nome" : "",
+			"preco" : "",
+			"descricaoProduto" : "",
+			"foto" : ""
+		}],
+		"feira" : {
+			"localização" : {
+				"endereco" : "",
+				"cidade" : "",
+				"coordinates" : [],
+				"type" : ""
+			}
+		}
+	}
+	
+}
